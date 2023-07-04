@@ -1,0 +1,58 @@
+[
+{
+    "id":1,
+    "genre":"business",
+    "headline":"China: Marriages drop to historic low as nation deals with declining birth rate",
+    "news":"According to the Ministry of Civil Affairs on Sunday (June 11), just 6.83 million couples completed their marriage registrations in 2022, do...",
+    "img":"https://cdn.wionews.com/sites/default/files/styles/photo_1/public/2023/06/10/0906_WOYB_GRAVITAS_WHY_DID_NO_ONE_HELP_THE_MAN_05-1686336617-00000003.jpg?imwidth=640",
+    "date":"10 June, 2023"
+},
+{
+    "id":2,
+    "genre":"business",
+    "headline":"Mother of Amazon miracle children survived for four days, told them to leave her to save themselves ",
+    "news":"The children were travelling with their mother when their Cessna plane crashed on May 1",
+    "img":"https://cdn.wionews.com/sites/default/files/styles/photo_1/public/2023/06/10/0906_WOYB_GRAVITAS_WHY_DID_NO_ONE_HELP_THE_MAN_05-1686336617-00000003.jpg?imwidth=640",
+    "date":"10 June, 2023"
+},
+    {
+        "id":3,
+        "genre":"business",
+        "headline":"Morning brief: 13 attacked in street party in New York; Soros hands over empire to son, & more ",
+        "news":"Good morning! Start your day with morning news brief.&nbsp",
+        "img":"https://cdn.wionews.com/sites/default/files/styles/photo_1/public/2023/06/10/0906_WOYB_GRAVITAS_WHY_DID_NO_ONE_HELP_THE_MAN_05-1686336617-00000003.jpg?imwidth=640",
+        "date":"10 June, 2023"
+    },
+    {
+        "id":4,
+        "genre":"business",
+        "headline":"Gravitas: NASA says 1500-feet-wide asteroid about to pass by Earth", 
+        "news":"Good morning! Start your day with morning news brief.&nbsp",
+        "img":"https://cdn.wionews.com/sites/default/files/styles/photo_1/public/2023/06/10/0906_WOYB_GRAVITAS_WHY_DID_NO_ONE_HELP_THE_MAN_05-1686336617-00000003.jpg?imwidth=640",
+        "date":"10 June, 2023"
+    },
+    {
+        "id":5,
+        "genre":"business",
+        "headline":"Gravitas: NASA says 1500-feet-wide asteroid about to pass by Earth", 
+        "news":"Good morning! Start your day with morning news brief.&nbsp",
+        "img":"https://cdn.wionews.com/sites/default/files/styles/photo_1/public/2023/06/10/0906_WOYB_GRAVITAS_WHY_DID_NO_ONE_HELP_THE_MAN_05-1686336617-00000003.jpg?imwidth=640",
+        "date":"10 June, 2023"
+    },
+    {
+        "id":6,
+        "genre":"business",
+        "headline":"Gravitas: NASA says 1500-feet-wide asteroid about to pass by Earth", 
+        "news":"Good morning! Start your day with morning news brief.&nbsp",
+        "img":"https://cdn.wionews.com/sites/default/files/styles/photo_1/public/2023/06/10/0906_WOYB_GRAVITAS_WHY_DID_NO_ONE_HELP_THE_MAN_05-1686336617-00000003.jpg?imwidth=640",
+        "date":"10 June, 2023"
+    },
+    {
+        "id":7,
+        "genre":"business",
+        "headline":"Gravitas: NASA says 1500-feet-wide asteroid about to pass by Earth", 
+        "news":"Good morning! Start your day with morning news brief.&nbsp",
+        "img":"https://cdn.wionews.com/sites/default/files/styles/photo_1/public/2023/06/10/0906_WOYB_GRAVITAS_WHY_DID_NO_ONE_HELP_THE_MAN_05-1686336617-00000003.jpg?imwidth=640",
+        "date":"10 June, 2023"
+    }
+]
