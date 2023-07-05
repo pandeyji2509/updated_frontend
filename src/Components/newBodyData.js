@@ -4,7 +4,7 @@ import "./newBody.css";
 
 async function fetchLiveNews() {
   const resp = await fetch(
-    "http://tv369.in:8000/api/v1/news/?" +
+    `${process.env.REACT_APP_URL}/api/v1/news/?` +
       new URLSearchParams({
         category_name: "live",
         ordering: "-created_at",
@@ -16,7 +16,7 @@ async function fetchLiveNews() {
 
 async function fetchMostReadNews() {
   const resp = await fetch(
-    "http://tv369.in:8000/api/v1/news/?" +
+    `${process.env.REACT_APP_URL}/api/v1/news/?` +
       new URLSearchParams({
         category_name: "trending",
         ordering: "-created_at",
@@ -34,13 +34,13 @@ async function fetchLatestNews(category) {
   if (category) options["category_name"] = category;
 
   const resp = await fetch(
-    "http://tv369.in:8000/api/v1/news?" + new URLSearchParams(options)
+    `${process.env.REACT_APP_URL}/api/v1/news?` + new URLSearchParams(options)
   );
   return await resp.json();
 }
 
 async function fetchCategories() {
-  const resp = await fetch("http://tv369.in:8000/api/v1/news/categories");
+  const resp = await fetch(`${process.env.REACT_APP_URL}0/api/v1/news/categories`);
   return await resp.json();
 }
 
